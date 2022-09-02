@@ -14,7 +14,7 @@
 <tr>
   <td style="text-align:center; vertical-align: middle;">Syntax, Functions and Statements</td>
   <td style="text-align:center; vertical-align: middle;">
-    <a href="">Lab</a> |
+    <a href="https://github.com/DimitarMitev92/JS-Advanced/tree/main/01.%20Syntax%2C%20Functions%20and%20Statements%20-%20Lab">Lab</a> |
     <a href="">Exercise</a> 
   </td>
 </tr>
