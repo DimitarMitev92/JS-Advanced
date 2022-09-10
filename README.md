@@ -92,24 +92,24 @@
 
 ## Умения
 
-- Работа с класове и обекти
-- Работа с функции и JSON формати
-- Работа с линейни структури
-- Извличане на информация и манипулация на DOM дървото
-- Тестване на качеството на кода
-- Обектно-ориентирано и функционално програмиране
+- Работа с класове и обекти;
+- Работа с функции и JSON формати;
+- Работа с линейни структури;
+- Извличане на информация и манипулация на DOM дървото;
+- Тестване на качеството на кода;
+- Обектно-ориентирано и функционално програмиране;
 
 ## Теми
 
-- Syntax, Functions and Statements
-- Objects
-- Arrays
-- Advanced Functions
-- DOM
-- DOM Manipulations
-- Classes
-- Unit Testing and Modules
-- Strings and RegExp
+- Syntax, Functions and Statements;
+- Objects;
+- Arrays;
+- Advanced Functions;
+- DOM;
+- DOM Manipulations;
+- Classes;
+- Unit Testing and Modules;
+- Strings and RegExp;
 
 ## Полезни линкове
 
@@ -117,8 +117,6 @@
 <a href="https://softuni.bg">`https://softuni.bg`</a>
 - SoftUni Judge 
 <a href="https://judge.softuni.bg">`https://judge.softuni.bg`</a>
-- Kinvey - Progress Software 
-<a href="https://console.kinvey.com/apps">`https://console.kinvey.com/apps`</a>
 - Postman 
 <a href="https://www.getpostman-beta.com">`https://www.getpostman-beta.com`</a>
 - Handlebars 
