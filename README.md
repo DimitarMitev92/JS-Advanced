@@ -92,24 +92,24 @@
 
 ## Умения
 
-- Работа с класове и обекти;
-- Работа с функции и JSON формати;
-- Работа с линейни структури;
-- Извличане на информация и манипулация на DOM дървото;
-- Тестване на качеството на кода;
-- Обектно-ориентирано и функционално програмиране;
+- Работа с класове и обекти
+- Работа с функции и JSON формати
+- Работа с линейни структури
+- Извличане на информация и манипулация на DOM дървото
+- Тестване на качеството на кода
+- Обектно-ориентирано и функционално програмиране
 
 ## Теми
 
-- Syntax, Functions and Statements;
-- Objects;
-- Arrays;
-- Advanced Functions;
-- DOM;
-- DOM Manipulations;
-- Classes;
-- Unit Testing and Modules;
-- Strings and RegExp;
+- Syntax, Functions and Statements
+- Objects
+- Arrays
+- Advanced Functions
+- DOM
+- DOM Manipulations
+- Classes
+- Unit Testing and Modules
+- Strings and RegExp
 
 ## Полезни линкове
 
