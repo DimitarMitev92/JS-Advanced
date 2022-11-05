@@ -28,16 +28,15 @@
 <tr>
   <td style="text-align: center; vertical-align: middle;">Objects and Composition</td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="">Lab</a> |
-    <a href="">Exercise</a> 
+    <a href="https://github.com/DimitarMitev92/JavaScript-Advanced/tree/main/05.%20Objects%20and%20Composition%20-%20Lab">Lab</a> |
+    <a href="https://github.com/DimitarMitev92/JavaScript-Advanced/tree/main/06.%20Objects%20and%20Composition%20-%20Exercise">Exercise</a> 
   </td>
 </tr>
 <tr>
   <td style="text-align: center; vertical-align: middle;">DOM Introduction</td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="">
-    Lab</a> |
-    <a href="">Exercise</a> 
+    <a href="https://github.com/DimitarMitev92/JavaScript-Advanced/tree/main/07.%20DOM%20Introduction%20-%20Lab">Lab</a> |
+    <a href="https://github.com/DimitarMitev92/JavaScript-Advanced/tree/main/08.%20DOM%20Introduction%20-%20Exercise">Exercise</a> 
   </td>
 </tr>
 <tr>
