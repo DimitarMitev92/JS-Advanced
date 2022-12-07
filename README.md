@@ -42,28 +42,28 @@
 <tr>
   <td style="text-align: center; vertical-align: middle;">DOM Manipulation and Events</td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="">Lab</a> |
-    <a href="">Exercise</a> 
+    <a href="https://github.com/DimitarMitev92/JavaScript-Advanced/tree/main/09.%20DOM%20Manipulation%20and%20Events%20-%20Lab">Lab</a> |
+    <a href="https://github.com/DimitarMitev92/JavaScript-Advanced/tree/main/10.%20DOM%20Manipulation%20and%20Events%20-%20Exercise">Exercise</a> 
   </td>
 </tr>
 <tr>
   <td style="text-align: center; vertical-align: middle;">Advanced Functions</td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="">Lab</a> |
-    <a href="">Exercise</a> 
+    <a href="https://github.com/DimitarMitev92/JavaScript-Advanced/tree/main/11.%20Advanced%20Functions%20-%20Lab">Lab</a> |
+    <a href="https://github.com/DimitarMitev92/JavaScript-Advanced/tree/main/12.%20Advanced%20Functions%20-%20Exercise">Exercise</a> 
   </td>
 </tr>
 <tr>
   <td style="text-align: center; vertical-align: middle;">Unit Testing and Error Handling</td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="">Lab</a> |
-    <a href="">Exercise</a> 
+    <a href="https://github.com/DimitarMitev92/JavaScript-Advanced/tree/main/13.%20Unit%20Testing%20and%20Error%20Handling%20-%20Lab">Lab</a> |
+    <a href="https://github.com/DimitarMitev92/JavaScript-Advanced/tree/main/14.%20Unit%20Testing%20and%20Error%20Handling%20-%20Exercise">Exercise</a> 
   </td>
 </tr>
 <tr>
   <td style="text-align: center; vertical-align: middle;">Classes and Attributes</td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="">Lab</a> |
+    <a href="https://github.com/DimitarMitev92/JavaScript-Advanced/tree/main/15.%20Classes%20and%20Attributes%20-%20Lab">Lab</a> |
     <a href="">Exercise</a> 
   </td>
 </tr>
