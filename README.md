@@ -64,7 +64,7 @@
   <td style="text-align: center; vertical-align: middle;">Classes and Attributes</td>
   <td style="text-align: center; vertical-align: middle;">
     <a href="https://github.com/DimitarMitev92/JavaScript-Advanced/tree/main/15.%20Classes%20and%20Attributes%20-%20Lab">Lab</a> |
-    <a href="">Exercise</a> 
+    <a href="https://github.com/DimitarMitev92/JavaScript-Advanced/tree/main/16.%20Classes%20and%20Attributes%20-%20Exercise">Exercise</a> 
   </td>
 </tr>
 <tr>
