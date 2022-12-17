@@ -9,7 +9,6 @@
     Array.prototype.last = function () {
         return this[this.length - 1];
     };
-
     Array.prototype.take = function (n) {
         let newArr = [];
         for (let index = 0; index < n; index++) {
