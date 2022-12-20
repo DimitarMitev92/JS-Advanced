@@ -71,7 +71,7 @@
   <td style="text-align: center; vertical-align: middle;">Prototypes and Inheritance</td>
   <td style="text-align: center; vertical-align: middle;">
     <a href="https://github.com/DimitarMitev92/JavaScript-Advanced/tree/main/17.%20Prototypes%20and%20Inheritance%20-%20Lab">Lab</a> |
-    <a href="">Exercise</a> 
+    <a href="https://github.com/DimitarMitev92/JavaScript-Advanced/tree/main/18.%20Prototypes%20and%20Inheritance%20-%20Exercise">Exercise</a> 
   </td>
 </tr>
 <tr>
